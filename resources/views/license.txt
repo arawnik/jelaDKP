@@ -1,0 +1,5 @@
+This information applies to all files in this folder and it's subfolders.
+
+Author: 		Jere Junttila <junttila.jere@gmail.com>
+License: 		GPL 3.0
+License-link:	https://www.gnu.org/licenses/gpl-3.0.en.html

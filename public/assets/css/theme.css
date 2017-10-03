@@ -1,0 +1,38 @@
+/*
+ * Global theme.css
+ *
+ *
+ */
+ 
+/* Common */
+
+body {
+	background-color: #d9d9d9;
+	color: #1a1a1a;
+}
+
+.class_name {
+	text-shadow: 1px 1px #000;
+	font-weight: 700;
+}
+
+
+/* DKP */
+
+.dkpEarned {
+	color:#009933;
+}
+.dkpSpent {
+	color:#991f00;
+}
+.dkpNormalized {
+	color:#b35900;
+}
+.dkpCurrent {
+	color:#a335ee;
+}
+
+.messageBlock {
+	background: #1a1b1f;
+}
+

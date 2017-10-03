@@ -1,0 +1,89 @@
+/*
+ * Global module.css
+ *
+ *
+ */
+ 
+ 
+ /* Header */
+ 
+ #bannerImg img {
+	width:100%;
+} 
+#bannerImg {
+	display:block;
+	margin: 3rem auto;
+	max-width:700px;
+} 
+
+/* Common */
+
+.well,
+.messageBlock,
+.navbar-default {
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .5), inset 0 1px 1px rgba(255, 255, 255, .2);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .5), inset 0 1px 1px rgba(255, 255, 255, .2);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .5), inset 0 1px 1px rgba(255, 255, 255, .2);
+}
+
+.well {
+	-webkit-border-radius: 0 0 3px 3px;
+	-moz-border-radius: 0 0 3px 3px;
+	border-radius: 0 0 3px 3px;
+	border: 1px solid transparent;
+    min-height: 500px;
+}
+
+#attendanceDiv select {
+	width:100%;
+	height:20rem;
+}
+
+.deleteBtn {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.roleImg {
+	max-height:1.3em;
+	width:auto;
+}
+
+#table-characters thead th,
+#table-characters tr td:nth-child(2),
+#table-characters tr td:nth-child(3),
+#table-characters tr td:nth-child(4),
+#table-characters tr td:nth-child(5),
+#table-characters tr td:nth-child(6),
+#table-characters tr td:nth-child(7) {
+	text-align: center;
+}
+
+
+
+/* Maintenance */
+
+.maintenanceImg {
+	-moz-border-radius: .5rem;
+	-webkit-border-radius: .5rem;
+	border-radius: .5rem;
+
+	-webkit-box-shadow: 0 0 4rem 0 rgba(0,0,0,0.75);
+	-moz-box-shadow: 0 0 4rem 0 rgba(0,0,0,0.75);
+	box-shadow: 0 0 4rem 0 rgba(0,0,0,0.75);
+}
+
+.messageBlock {
+	text-align: center;
+	
+	-moz-border-radius: .5rem;
+	-webkit-border-radius: .5rem;
+	border-radius: .5rem;
+	
+	padding: 3rem 0;
+	font-size:1.7rem;
+	
+	border: 1px solid transparent;
+}
+

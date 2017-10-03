@@ -1,0 +1,10 @@
+/**
+ * Collection of stylesheets used for common behaviour.
+ * CSS is divided into categories according to SMACSS good coding behaviours.
+ */
+
+@import url("base.css"); 	/* Define your defaults (html, body, h1, ul, etc) */
+@import url("layout.css"); 	/* divide into major sections. prefix: layout- */
+@import url("state.css"); 	/* Specific state behaviours. prefix: is-  */
+@import url("module.css");	/* Reusable modular components */
+@import url("theme.css");	/* Defines the scheme and typographic treatments throughout the site */
