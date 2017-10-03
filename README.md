@@ -29,7 +29,8 @@ SoulDKP was done with minimal time invested before getting started, and not usin
 
 This project (JelaDKP) was the second created project.
 JelaDKP was done with proper preparations. Two design patterns were considered when creating this project:
-    1. MVC-model
+    
+	1. MVC-model
 	2. Template method model
 
 
